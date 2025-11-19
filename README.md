@@ -3,9 +3,11 @@
 [Click Here](/test) for the Test Page!
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
- 
+
+<details>
 :+1:
 
 | foo | bar |
 | --- | --- |
 | baz | bim |
+</details>
